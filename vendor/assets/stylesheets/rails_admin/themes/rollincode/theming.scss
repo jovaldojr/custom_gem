@@ -2,11 +2,11 @@
 
 body {
   color: $black;
-  background: $background; 
+  background: $background;
   font-family: 'Raleway', sans-serif;
 }
 
-body.rails_admin .form-horizontal textarea {
+body.rails_admin .form-vertical textarea {
   width: 100%;
 }
 
